@@ -1,3 +1,26 @@
+## warehouse_ros_mongo (foxy) - 2.0.2-1
+
+The packages in the `warehouse_ros_mongo` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy warehouse_ros_mongo` on `Thu, 17 Jun 2021 18:39:50 -0000`
+
+The `warehouse_ros_mongo` package was released.
+
+Version of package(s) in repository `warehouse_ros_mongo`:
+
+- upstream repository: https://github.com/ros-planning/warehouse_ros_mongo.git
+- release repository: https://github.com/moveit/warehouse_ros_mongo-release.git
+- rosdistro version: `2.0.1-1`
+- old version: `2.0.1-2`
+- new version: `2.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## warehouse_ros_mongo (rolling) - 2.0.2-1
 
 The packages in the `warehouse_ros_mongo` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling warehouse_ros_mongo` on `Thu, 17 Jun 2021 18:37:31 -0000`
