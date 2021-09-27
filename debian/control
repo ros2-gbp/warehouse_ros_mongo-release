@@ -1,0 +1,12 @@
+Source: ros-rolling-warehouse-ros-mongo
+Section: misc
+Priority: optional
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), libmongoclient-dev, mongodb, ros-rolling-ament-cmake, ros-rolling-ament-cmake-copyright, ros-rolling-ament-cmake-gtest, ros-rolling-ament-cmake-python, ros-rolling-ament-index-cpp, ros-rolling-ament-lint-auto, ros-rolling-class-loader, ros-rolling-launch-ros, ros-rolling-launch-testing-ament-cmake, ros-rolling-rclcpp, ros-rolling-rclpy, ros-rolling-std-msgs, ros-rolling-warehouse-ros, ros-rolling-ros-workspace
+Homepage: http://ros.org/wiki/warehouse_ros
+Standards-Version: 3.9.2
+
+Package: ros-rolling-warehouse-ros-mongo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, mongodb, ros-rolling-class-loader, ros-rolling-rclcpp, ros-rolling-rclpy, ros-rolling-std-msgs, ros-rolling-warehouse-ros, ros-rolling-ros-workspace
+Description: Implementation of warehouse_ros for MongoDB
