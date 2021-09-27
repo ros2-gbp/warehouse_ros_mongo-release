@@ -1,3 +1,26 @@
+## warehouse_ros_mongo (galactic) - 2.0.3-1
+
+The packages in the `warehouse_ros_mongo` repository were released into the `galactic` distro by running `/usr/bin/bloom-release warehouse_ros_mongo -t galactic -r galactic` on `Mon, 27 Sep 2021 20:12:48 -0000`
+
+The `warehouse_ros_mongo` package was released.
+
+Version of package(s) in repository `warehouse_ros_mongo`:
+
+- upstream repository: https://github.com/ros-planning/warehouse_ros_mongo.git
+- release repository: https://github.com/moveit/warehouse_ros_mongo-release.git
+- rosdistro version: `2.0.2-1`
+- old version: `2.0.2-1`
+- new version: `2.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## warehouse_ros_mongo (galactic) - 2.0.2-1
 
 The packages in the `warehouse_ros_mongo` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic warehouse_ros_mongo --edit` on `Thu, 17 Jun 2021 18:43:08 -0000`
